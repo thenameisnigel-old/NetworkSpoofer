@@ -1,0 +1,6 @@
+*.apk
+*.DS_Store
+*.bin
+local.properties
+import-summary.txt
+build/*
